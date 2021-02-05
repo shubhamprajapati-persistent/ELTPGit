@@ -2,5 +2,10 @@ hello
 
 changee
 
+<<<<<<< HEAD
 this is another change.
 third change.
+=======
+this is another change
+second chnage
+>>>>>>> 63a3e93 (second change)
